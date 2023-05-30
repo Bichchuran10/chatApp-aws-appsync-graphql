@@ -1,0 +1,23 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-chatappaws-dev-220842-authRole",
+      "UnauthRoleArn": "arn:aws:iam::903275010366:role/amplify-chatappaws-dev-220842-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::903275010366:role/amplify-chatappaws-dev-220842-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-chatappaws-dev-220842-deployment",
+      "UnauthRoleName": "amplify-chatappaws-dev-220842-unauthRole",
+      "StackName": "amplify-chatappaws-dev-220842",
+      "StackId": "arn:aws:cloudformation:us-east-1:903275010366:stack/amplify-chatappaws-dev-220842/7309d980-ff08-11ed-a1a3-0e1f0a384537",
+      "AmplifyAppId": "d3ipm15n013nnz"
+    },
+    "categories": {
+      "api": {
+        "chatappaws": {}
+      },
+      "auth": {
+        "chatappaws07a167d3": {}
+      }
+    }
+  }
+}
